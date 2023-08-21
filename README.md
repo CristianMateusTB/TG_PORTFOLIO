@@ -8,7 +8,7 @@
 <body>
 
   <div align="center">
-    <kbd><img src="https://github.com/CristianMateusTB/TG_PORTIFOLIO/blob/main/Assets/Cristian.jpg" width="200px" height="200px"/></kbd>
+    <kbd><img src="https://github.com/CristianMateusTB/TG_PORTIFOLIO/tree/main/assets/Cristian.jpg" width="200px" height="200px"/></kbd>
   </div>
 
 

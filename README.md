@@ -14,6 +14,8 @@
 
 
 
+
+
 </body>
 
 ### :computer:Apresentação
@@ -27,6 +29,8 @@ Meu nome é Cristian Mateus Teixeira Barbosa,Moro em São José dos Campos - SP,
 <details>
   <summary>Em 2020-1</summary>
 O projeto integrador no inicio de 2020 foi de um aplicativo de segurança domiciliar, que foi desenvolvido e criado para uma inovação no mercado de segurança, com a facilidade e funcionalidade de ter a autonomia da segurança do seu domicílio.
+
+
 
 ##### :man_teacher: Parceiro Acadêmico:
 
@@ -75,13 +79,15 @@ Kodular - kodular é uma plataforma de desenvolvimento de aplicativos móveis qu
 
 - [Câmera de segurança](https://drive.google.com/file/d/1ZTmHyagF4pVJgk02Pg6iP88g4zk6GSTO/view?usp=sharing)
 - [Chamadas de Emergência](https://drive.google.com/file/d/1ZZMmOgKXKVMSb6pout-qUtOB4mkpSJ-r/view?usp=sharing)
-</details>
+  </details>
 
 
 
 <details>
   <summary>Em 2020-2</summary>
 Foi desenvolvido um aplicativo de gerenciamento para controle da jornada de trabalho dos motoristas de forma parametrizável, visando funcionalidades de planejamento,acompanhamento e controle.
+
+
 
 ##### :man_teacher: Parceiro Acadêmico:
 
@@ -97,11 +103,11 @@ Desenvolver um aplicativo de gerenciamento para controle da jornada de trabalho 
 
 ##### :computer: Tecnologias Utilizadas:
 
-[Java](https://www.java.com/pt-BR/) -É uma linguagem de programação orientada a objetos
+[Java](https://www.java.com/pt-BR/) - Java é uma linguagem de programação de alto nível orientada a objetos.
 
 [Java swing]() -  É um framework que disponibiliza um conjunto de elementos gráficos para ser utilizado na plataforma *Java*
 
-[PostgreSQL](https://www.postgresql.org) - É  um sistema gerenciador de banco de dados objeto relacional
+[PostgreSQL](https://www.postgresql.org) - PostgreSQL é um sistema de gerenciamento de banco de dados relacional de código aberto. Ele é conhecido por sua robustez, confiabilidade e capacidade de lidar com grandes volumes de dados. É amplamente utilizado em aplicações web e empresariais.
 
 ##### Contribuições pessoais :
 
@@ -122,16 +128,15 @@ PostgreSQL - PostgreSQL é um sistema de gerenciamento de banco de dados relacio
 
 </details>
 
-
-
 <details>
   <summary>Em 2021-1</summary>
 Na primeira etapa de 2021, com o avanço da pandemia do COVID-19 e o aumento da demanda por formações EAD, recebemos o desafio de criar uma plataforma de ensino digital que fosse intuitiva e de fácil uso para todos os tipos de usuários.
 
+
+
 ##### :man_teacher: Parceiro Acadêmico:
 
 [NESS Health](https://ness.com.br/health.php) empresa de tecnologia que inova e transforma diariamente a área da saúde, implementando tecnologias que transformam a medicina moderna.
-
 
 ##### :warning: Problema:
 
@@ -143,15 +148,19 @@ Uma plataforma de ensino remoto com praticidade, facilidade e ampla variedade de
 
 ##### :computer: Tecnologias Utilizadas
 
-Java
+Java - Java é uma linguagem de programação de alto nível orientada a objetos.
 
-HTML 5
+Javascript - JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma.
 
-CSS 3
+Bootstrap - Bootstrap é um framework web com código-fonte aberto para desenvolvimento de componentes de interface e front-end para sites e aplicações web usando HTML, CSS e JavaScript, baseado em modelos de design para a tipografia, melhorando a experiência do usuário em um site amigável e responsivo.
 
-Spring
+HTML5 - HTML 5 (Hypertext Markup Language 5) é a versão mais recente da linguagem de marcação usada para criar páginas da web. Ele fornece recursos avançados para a criação de conteúdo web, incluindo multimídia e gráficos.
 
-Mysql
+CSS3 - CSS 3 (Cascading Style Sheets 3) é uma linguagem usada para controlar a apresentação e o design de páginas da web em HTML. Ele permite que os desenvolvedores definam o estilo, o layout e a formatação de elementos HTML.
+
+Python - Python é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.
+
+Mysql - MySQL é um sistema de gerenciamento de banco de dados relacional de código aberto. Ele é amplamente utilizado para armazenar, recuperar e gerenciar dados em aplicativos e sites.
 
 ##### Contribuições pessoais :
 
@@ -159,13 +168,16 @@ Nesse projeto me dediquei para a integração do banco com o back-end, nas duas 
 
 ##### Hard skills:
 
-Mysql 
+Mysql - MySQL é um sistema de gerenciamento de banco de dados relacional de código aberto. Ele é amplamente utilizado para armazenar, recuperar e gerenciar dados em aplicativos e sites.
 
-Bootstrap 
+Javascript - JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma.
 
-HTML CSS 
+HTML5 - HTML 5 (Hypertext Markup Language 5) é a versão mais recente da linguagem de marcação usada para criar páginas da web. Ele fornece recursos avançados para a criação de conteúdo web, incluindo multimídia e gráficos.
+
+CSS3 - CSS 3 (Cascading Style Sheets 3) é uma linguagem usada para controlar a apresentação e o design de páginas da web em HTML. Ele permite que os desenvolvedores definam o estilo, o layout e a formatação de elementos HTML.
 
 ##### Soft skills:
+
 **Autonomia** - Foi nescessario iniciativa para resolver problemas e ajustar as integrações do projeto.
 
 [GIT do projeto](https://github.com/DevSlim001/API_NEDUC)
@@ -175,18 +187,13 @@ HTML CSS
 
 <details>
   <summary>Em 2021-2</summary>
-
-
+Na segunda etapa de 2021, tivemos o prazer de trabalhar com uma das maiores empresas de São José dos campos, a proposta seria o gerenciamento e manipulação de documentos internos da empresa parceira de forma mais fácil. Nesse semestre foi proposto que desenvolvêssemos um sistema para gerar documentos de aeronaves de acordo com os padrões estabelecidos pela empresa parceira.
 
 
 
 ##### :man_teacher: Parceiro Acadêmico
 
-[Embraer](https://embraer.com/br/pt)
-
-[GIT](https://github.com/DevSlim001/API_Slim_4Semestre)
-
-
+[Embraer](https://embraer.com/br/pt) - Conglomerado transnacional brasileiro, fabricante de aviões comerciais, executivos, agrícolas e militares, peças aeroespaciais, serviços e suporte na área.
 
 ##### :warning: Problema
 
@@ -196,21 +203,19 @@ Dificuladade na manipulação de documentos (manuais), demora e trabalho excessi
 
 Plataforma WEB resposnsável por facilitar a edição desses arquivos de forma que não fosse necessário realizar operações exaustivas e repetitivas.
 
-
-
 ##### :computer: Tecnologias Utilizadas
 
-Java
+Java - Java é uma linguagem de programação de alto nível orientada a objetos.
 
-HTML 5
+Javascript - JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma.
 
-CSS 3
+HTML5 - HTML 5 (Hypertext Markup Language 5) é a versão mais recente da linguagem de marcação usada para criar páginas da web. Ele fornece recursos avançados para a criação de conteúdo web, incluindo multimídia e gráficos.
 
-Spring
+CSS3 - CSS 3 (Cascading Style Sheets 3) é uma linguagem usada para controlar a apresentação e o design de páginas da web em HTML. Ele permite que os desenvolvedores definam o estilo, o layout e a formatação de elementos HTML.
 
-JavaScript
+Springboot - Spring Boot é um framework de desenvolvimento em Java que simplifica a criação de aplicativos Java, fornecendo configurações pré-definidas e um ambiente de execução integrado.
 
-ReactJs
+ReactJs - O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web.
 
 ##### Contribuições pessoais 
 
@@ -218,62 +223,68 @@ Nesse projeto fui responsável pelo desenvolvimento das páginas web utilizando 
 
 ##### Hardskill:
 
-ReactJs -
-
-Mongo DB -
-
-Android
-
-
+ReactJs - O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web.
 
 ##### Soft skills
 
+***Aprendizado Contínuo*** - Foi nescessario o aprendizado continuou pois estava atuando com uma linguagem que não tinha nenhum contato previo, o que se fez nescessario um estudo sobre a linguagem
 
 
+[GIT do projeto](https://github.com/DevSlim001/API_Slim_4Semestre)
 </details>
 
 <details>
   <summary>Em 2022-1</summary>
-
-
+Nesse semetre a empresa parceira apresentou a proposta de desenvolver um aplicativo mobile que notificasse os proprietários e tornasse mais fácil a leitura de documentos preventivos ou de manutenção de seus veículos correspondentes.
 
 
 
 ##### :man_teacher: Parceiro Acadêmico
 
-[Embraer](https://embraer.com/br/pt)
-
-[GIT](https://github.com/DevSlim001/API_Slim_4Semestre)
-
-
+[Embraer](https://embraer.com/br/pt) - Conglomerado transnacional brasileiro, fabricante de aviões comerciais, executivos, agrícolas e militares, peças aeroespaciais, serviços e suporte na área.
 
 ##### :warning: Problema
 
+Falta de leitura de documentos preventivos e de manutenção por parte dos donos de veículos, seja por dificuldade de acesso ou pela falta de notificação ao lançar novas FOL's no sistema.
+
 ##### :bulb: Solução
 
-
+Um aplicativo que facilita os procedimentos padrão para os motoristas em caso de problema com seu veículo. No aplicativo, ele sempre terá notificações de alertas e recomendações (denominadas FOLs) vindas diretamente da empresa responsável relacionada aos seus veículos.
 
 ##### :computer: Tecnologias Utilizadas
 
+React-native - React Native é um framework para o desenvolvimento de aplicativos móveis. 
 
+Javascript -  JavaScript é uma linguagem de programação amplamente usada para desenvolvimento web. 
+
+AWS - AWS é uma plataforma de serviços em nuvem oferecida pela Amazon. Possui uma ampla gama de serviços que incluem armazenamento em nuvem, computação em nuvem, análise de dados, aprendizado de máquina e muito mais. 
+
+JavaScript - JavaScript é uma linguagem de programação amplamente usada para desenvolvimento web. É usado para adicionar interatividade, animações e funcionalidades dinâmicas às páginas da web.
 
 ##### Contribuições pessoais 
 
-Nesse projeto atuei como SM(Scrum Master) e fiquei responsável pelo desenvolvimento de telas desenvolvendo as telas de login,usurário e inicial incluindo a comunicação com a API Gateway, configurei a AWS para rodar o back-end e fiz as rotas para comunicação dos dispositivos com a AWS.
+Nesse projeto atuei como SM(Scrum Master) e fiquei responsável pelo desenvolvimento de telas de login,usurário e home incluindo a comunicação com a API Gateway, configurei a AWS para rodar o back-end e fiz a configuração das rotas do front end para a comunicação com a AWS.
 
 ##### Hardskill:
 
-React-native
+React-native - React Native é um framework para o desenvolvimento de aplicativos móveis. 
 
-Javascript
+Javascript -  JavaScript é uma linguagem de programação amplamente usada para desenvolvimento web. 
+
+AWS - AWS é uma plataforma de serviços em nuvem oferecida pela Amazon. Possui uma ampla gama de serviços que incluem armazenamento em nuvem, computação em nuvem, análise de dados, aprendizado de máquina e muito mais. 
 
 ##### Soft skills
 
+Adaptabilidade 
+autonomia
+Gestão de Projeto
+Gerenciamento de tempo
+
+[GIT do projeto](https://github.com/TecStocks).
 </details>
 
 <details>
   <summary>Em 2022-2</summary>
-
 
 
 
@@ -285,31 +296,25 @@ Javascript
 
 O problema apresentado foi que sempre que os agricultores necessitassem de dados do seu plantio, era necessário o preenchimento manual informações para obtenção de dados.
 
-
-
 ##### :bulb: Solução
 
 A solução encontrada foi a implementação de uma IA no aplicativo, de forma que seria necessário apenas que o agricultor tirasse uma foto da sua planta para que pudesse receber dados quantitativos.
 
-
-
 ##### :computer: Tecnologias Utilizadas
 
-React
+ReactJs - O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web.
 
-Python
+Python - Python é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.
 
-JavaScript
+Javascript - JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma.
 
-TensorFlow
+TensorFlow - TensorFlow é uma biblioteca de código aberto desenvolvida pelo Google para aprendizado de máquina e inteligência artificial. 
 
-Yolo
+Yolo -  YOLO é um algoritmo de detecção de objetos em tempo real usado em visão computacional. Ele é conhecido por sua capacidade de identificar múltiplos objetos em uma única passagem pela imagem e é amplamente usado em aplicações de segurança, veículos autônomos e vigilância.
 
 ##### Contribuições pessoais 
 
 Nesse projeto fui responsável pelo desenvolvimento da IA assim como seu treinamento e pelo aperfeiçoamento dos treinos, tambem fiz a preparação do dataset fazendo a identificação manual de vagem para o treinamento de reconhecimento da IA.
-
-
 
 ##### Hardskill:
 
@@ -319,6 +324,7 @@ IA
 
 ##### Soft skills
 
+[GIT do projeto](https://github.com/DevSlim001/API_Slim_4Semestre)
 </details>
 
 

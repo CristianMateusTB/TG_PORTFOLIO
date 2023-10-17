@@ -20,7 +20,7 @@
 
 ### :computer:Apresentação
 
-Meu nome é Cristian Mateus Teixeira Barbosa,Moro em São José dos Campos - SP, atualmente estou Cursando Analise e desenvolvimento de Software na FATEC - Prof. Jessen Vidal. Formação Técnica em Química pelo Instituto Federal de Minas Gerais.
+Meu nome é Cristian Mateus Teixeira Barbosa,Moro em São José dos Campos - SP, atualmente estou Cursando Analise e desenvolvimento de Software na FATEC - Prof. Jessen Vidal. Formação Técnica em Química pelo Instituto Federal de Minas Gerais da qual não tive grande gosto pela area de quimica e como sempre tive mais apreço a area de tecnologia acabei escolhendo essa area para seguir carreira, atualmente trabalho como tecnico de informatica na empresa Comercial Villa Simpatia.
 
 
 
@@ -38,7 +38,7 @@ FATEC - Prof. Jessen Vidal, proposto pelo o Prof. Jean Carlos Lourenço Costa da
 
 ##### :warning: Problema:
 
-Criar um aplicativo com o objetivo de implementar as tecnologias de programação modular e banco de dados.
+Falta de segurança a longa distancia 
 
 ##### :bulb: Solução:
 
@@ -46,13 +46,11 @@ Aplicativo de segurança doméstica, que trás aos usuários conforto, seguranç
 
 ##### :computer: Tecnologias Utilizadas:
 
-[App inventor](https://appinventor.mit.edu) e  [kodular](https://www.kodular.io)  - É uma linguagem visual de blocos para criar aplicativos Android.
+ [kodular](https://www.kodular.io)  - É uma linguagem visual de blocos para criar aplicativos Android,O Kodular foi a principal tecnologia do projeto, pois através dela que o aplicativo foi construído.
 
-[Firebase](https://firebase.google.com/products/realtime-database/?utm_source=google&utm_medium=cpc&utm_campaign=latam-BR-all-pt-dr-SKWS-all-all-trial-e-dr-1011454-LUAC0008679&utm_content=text-ad-none-any-DEV_c-CRE_429626774316-ADGP_Hybrid%20%7C%20SKWS%20-%20EXA%20%7C%20Txt%20~%20Compute_Firebase-KWID_43700066431125567-kwd-312330826250&utm_term=KW_firebase-ST_Firebase&gclid=CjwKCAjwrqqSBhBbEiwAlQeqGi-Fsw0Zm0CZHlbUi-l5d_oEqcTx9shZNZD5AGjEdP--fGkoiY1kfBoCE4EQAvD_BwE&gclsrc=aw.ds) - É uma plataforma desenvolvida pelo Google para a criação de aplicativos móveis e web.
+[Firebase](https://firebase.google.com/products/realtime-database/?utm_source=google&utm_medium=cpc&utm_campaign=latam-BR-all-pt-dr-SKWS-all-all-trial-e-dr-1011454-LUAC0008679&utm_content=text-ad-none-any-DEV_c-CRE_429626774316-ADGP_Hybrid%20%7C%20SKWS%20-%20EXA%20%7C%20Txt%20~%20Compute_Firebase-KWID_43700066431125567-kwd-312330826250&utm_term=KW_firebase-ST_Firebase&gclid=CjwKCAjwrqqSBhBbEiwAlQeqGi-Fsw0Zm0CZHlbUi-l5d_oEqcTx9shZNZD5AGjEdP--fGkoiY1kfBoCE4EQAvD_BwE&gclsrc=aw.ds) - É uma plataforma desenvolvida pelo Google para a criação de aplicativos móveis e web, Foi utilizado para guardar informações e autenticar clientes no sistema.
 
-[Airtable](https://www.airtable.com/?utm_source=google&utm_medium=cpc&utm_extra5=kwd-98523555182&utm_extra2=11493609735&utm_extra10=120737223988&creative=475905503164&device=c&cx=row&targetid=kwd-98523555182&campaignid=11493609735&adgroupid=120737223988&utm_campaign=brand_creator&utm_content=bofu_freetrial&gclid=CjwKCAjwrqqSBhBbEiwAlQeqGv5aIHvPCIKqJFiw0vVQDxpMbpIDsqEPDGFiZ9OQcHcbjLF6ze3E0BoCn0AQAvD_BwE) - É um serviço de colaboração em nuvem m híbrido planilha-banco de dados, com as características de um banco de dados, mas aplicado a uma planilha.
-
-Droidcam - É uma aplicação para Android que permite usufruir da camara e micro do dispositivo móvel a partir de qualquer lugar.
+Droidcam - É uma aplicação para Android que permite usufruir da camara e micro do dispositivo móvel a partir de qualquer lugar, foi utilizado para a integração da camera com o sistema
 
 ##### :link: Contribuições pessoais :
 
@@ -60,9 +58,8 @@ Nesse projeto contribui com a programação a linkagem da camera ao aplicativo, 
 
 ##### Hard skill:
 
-Firebase - Firebase é uma plataforma de desenvolvimento de aplicativos móveis e web oferecida pelo Google. Ela fornece uma variedade de serviços, como autenticação de usuário, banco de dados em tempo real, armazenamento em nuvem, mensagens em tempo real e análises.
-
-Kodular - kodular é uma plataforma de desenvolvimento de aplicativos móveis que permite criar aplicativos Android sem a necessidade de codificação tradicional. É uma plataforma de criação de aplicativos com base em blocos.
+Firebase, Kodular sei fazer com autonomia.
+airtable sei fazer com ajuda.
 
 ##### Soft skills:
 
@@ -103,11 +100,11 @@ Desenvolver um aplicativo de gerenciamento para controle da jornada de trabalho 
 
 ##### :computer: Tecnologias Utilizadas:
 
-[Java](https://www.java.com/pt-BR/) - Java é uma linguagem de programação de alto nível orientada a objetos.
+[Java](https://www.java.com/pt-BR/) - Java é uma linguagem de programação de alto nível orientada a objetos, O Java foi a principal linguagem de programção do projeto, pois através dela que o aplicativo foi construído.
 
-[Java swing]() -  É um framework que disponibiliza um conjunto de elementos gráficos para ser utilizado na plataforma *Java*
+[Java swing]() -  É um framework que disponibiliza um conjunto de elementos gráficos para ser utilizado na plataforma *Java*, foi utilizada juntamente a linguagem java.
 
-[PostgreSQL](https://www.postgresql.org) - PostgreSQL é um sistema de gerenciamento de banco de dados relacional de código aberto. Ele é conhecido por sua robustez, confiabilidade e capacidade de lidar com grandes volumes de dados. É amplamente utilizado em aplicações web e empresariais.
+[PostgreSQL](https://www.postgresql.org) - PostgreSQL é um sistema de gerenciamento de banco de dados relacional de código aberto. Ele é conhecido por sua robustez, confiabilidade e capacidade de lidar com grandes volumes de dados. É amplamente utilizado em aplicações web e empresariais,O postgreSQL foi o banco de dados usado no projeto.
 
 ##### Contribuições pessoais :
 
@@ -115,7 +112,8 @@ Nesse projeto atuei com desenvolvimento e integração do banco de dados com o b
 
 ##### Hard skill:
 
-PostgreSQL - PostgreSQL é um sistema de gerenciamento de banco de dados relacional de código aberto. Ele é conhecido por sua robustez, confiabilidade e capacidade de lidar com grandes volumes de dados. É amplamente utilizado em aplicações web e empresariais.
+PostgreSQL sei fazer com autonomia.
+java sei fazer com ajuda
 
 ##### Soft skills:
 
@@ -148,19 +146,16 @@ Uma plataforma de ensino remoto com praticidade, facilidade e ampla variedade de
 
 ##### :computer: Tecnologias Utilizadas
 
-Java - Java é uma linguagem de programação de alto nível orientada a objetos.
+Java - Java é uma linguagem de programação de alto nível orientada a objetos,  O Java foi a principal linguagem de programção do projeto, pois através dela que o aplicativo foi construído.
 
-Javascript - JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma.
+Javascript - JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma, Usada principalmente na construção do chatbot e animações das páginas do projeto.
 
-Bootstrap - Bootstrap é um framework web com código-fonte aberto para desenvolvimento de componentes de interface e front-end para sites e aplicações web usando HTML, CSS e JavaScript, baseado em modelos de design para a tipografia, melhorando a experiência do usuário em um site amigável e responsivo.
+Bootstrap - Bootstrap é um framework web com código-fonte aberto para desenvolvimento de componentes de interface e front-end para sites e aplicações web usando HTML, CSS e JavaScript, baseado em modelos de design para a tipografia, melhorando a experiência do usuário em um site amigável e responsivo, Utilizado para coleta de templates e responsividade do projeto.
 
-HTML5 - HTML 5 (Hypertext Markup Language 5) é a versão mais recente da linguagem de marcação usada para criar páginas da web. Ele fornece recursos avançados para a criação de conteúdo web, incluindo multimídia e gráficos.
 
-CSS3 - CSS 3 (Cascading Style Sheets 3) é uma linguagem usada para controlar a apresentação e o design de páginas da web em HTML. Ele permite que os desenvolvedores definam o estilo, o layout e a formatação de elementos HTML.
+Python - Python é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forteO Python foi utilizado para construção do script temporizador.py, um microserviço utilizado no decorrer do projeto para controle de tempo de dedicação as tarefas.
 
-Python - Python é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.
-
-Mysql - MySQL é um sistema de gerenciamento de banco de dados relacional de código aberto. Ele é amplamente utilizado para armazenar, recuperar e gerenciar dados em aplicativos e sites.
+Mysql - MySQL é um sistema de gerenciamento de banco de dados relacional de código aberto. Ele é amplamente utilizado para armazenar, recuperar e gerenciar dados em aplicativos e sites, Mysql foi o banco de dados usado no projeto.
 
 ##### Contribuições pessoais :
 
@@ -168,13 +163,7 @@ Nesse projeto me dediquei para a integração do banco com o back-end, nas duas 
 
 ##### Hard skills:
 
-Mysql - MySQL é um sistema de gerenciamento de banco de dados relacional de código aberto. Ele é amplamente utilizado para armazenar, recuperar e gerenciar dados em aplicativos e sites.
-
-Javascript - JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma.
-
-HTML5 - HTML 5 (Hypertext Markup Language 5) é a versão mais recente da linguagem de marcação usada para criar páginas da web. Ele fornece recursos avançados para a criação de conteúdo web, incluindo multimídia e gráficos.
-
-CSS3 - CSS 3 (Cascading Style Sheets 3) é uma linguagem usada para controlar a apresentação e o design de páginas da web em HTML. Ele permite que os desenvolvedores definam o estilo, o layout e a formatação de elementos HTML.
+Mysql e Javascript sei fazer com autonomia
 
 ##### Soft skills:
 
@@ -205,17 +194,13 @@ Plataforma WEB resposnsável por facilitar a edição desses arquivos de forma q
 
 ##### :computer: Tecnologias Utilizadas
 
-Java - Java é uma linguagem de programação de alto nível orientada a objetos.
+Java - Java é uma linguagem de programação de alto nível orientada a objetos,  O Java foi a principal linguagem de programção do projeto, pois através dela que o aplicativo foi construído.
 
 Javascript - JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma.
 
-HTML5 - HTML 5 (Hypertext Markup Language 5) é a versão mais recente da linguagem de marcação usada para criar páginas da web. Ele fornece recursos avançados para a criação de conteúdo web, incluindo multimídia e gráficos.
-
-CSS3 - CSS 3 (Cascading Style Sheets 3) é uma linguagem usada para controlar a apresentação e o design de páginas da web em HTML. Ele permite que os desenvolvedores definam o estilo, o layout e a formatação de elementos HTML.
-
 Springboot - Spring Boot é um framework de desenvolvimento em Java que simplifica a criação de aplicativos Java, fornecendo configurações pré-definidas e um ambiente de execução integrado.
 
-ReactJs - O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web.
+ReactJs - O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web, o React foi a principal tecnologia utilizada na construção do front-end do projeto.
 
 ##### Contribuições pessoais 
 
@@ -223,7 +208,8 @@ Nesse projeto fui responsável pelo desenvolvimento das páginas web utilizando 
 
 ##### Hardskill:
 
-ReactJs - O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web.
+ReactJs sei fazer com autonomia
+java sei fazer com ajuda
 
 ##### Soft skills
 
@@ -253,13 +239,12 @@ Um aplicativo que facilita os procedimentos padrão para os motoristas em caso d
 
 ##### :computer: Tecnologias Utilizadas
 
-React-native - React Native é um framework para o desenvolvimento de aplicativos móveis. 
+React-native - React Native é um framework para o desenvolvimento de aplicativos móveis, foi a principal linguagem de programção do projeto, pois através dela que o front-end do aplicativo construido.
 
-Javascript -  JavaScript é uma linguagem de programação amplamente usada para desenvolvimento web. 
+Javascript -  JavaScript é uma linguagem de programação amplamente usada para desenvolvimento web,foi a principal linguagem de programção do projeto, pois através dela que o back-end do aplicativo foi construído.
 
-AWS - AWS é uma plataforma de serviços em nuvem oferecida pela Amazon. Possui uma ampla gama de serviços que incluem armazenamento em nuvem, computação em nuvem, análise de dados, aprendizado de máquina e muito mais. 
+AWS - AWS é uma plataforma de serviços em nuvem oferecida pela Amazon. Possui uma ampla gama de serviços que incluem armazenamento em nuvem, computação em nuvem, análise de dados, aprendizado de máquina e muito mais, foi utilizado para a hospedagem back-end do aplicativo
 
-JavaScript - JavaScript é uma linguagem de programação amplamente usada para desenvolvimento web. É usado para adicionar interatividade, animações e funcionalidades dinâmicas às páginas da web.
 
 ##### Contribuições pessoais 
 
@@ -267,11 +252,7 @@ Nesse projeto atuei como SM(Scrum Master) e fiquei responsável pelo desenvolvim
 
 ##### Hardskill:
 
-React-native - React Native é um framework para o desenvolvimento de aplicativos móveis. 
-
-Javascript -  JavaScript é uma linguagem de programação amplamente usada para desenvolvimento web. 
-
-AWS - AWS é uma plataforma de serviços em nuvem oferecida pela Amazon. Possui uma ampla gama de serviços que incluem armazenamento em nuvem, computação em nuvem, análise de dados, aprendizado de máquina e muito mais. 
+React-native, Javascript e AWS sei fazer comautonomia
 
 ##### Soft skills
 

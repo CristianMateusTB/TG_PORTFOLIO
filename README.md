@@ -20,7 +20,7 @@
 
 ### :computer:Apresentação
 
-Meu nome é Cristian Mateus Teixeira Barbosa,Moro em São José dos Campos - SP, atualmente estou Cursando Analise e desenvolvimento de Software na FATEC - Prof. Jessen Vidal. Formação Técnica em Química pelo Instituto Federal de Minas Gerais da qual não tive grande gosto pela area de quimica e como sempre tive mais apreço a area de tecnologia acabei escolhendo essa area para seguir carreira, atualmente trabalho como tecnico de informatica na empresa Comercial Villa Simpatia.
+Meu nome é Cristian Mateus Teixeira Barbosa, Moro em São José dos Campos - SP, atualmente estou Cursando Análise e desenvolvimento de Software na FATEC - Prof. Jessen Vidal. Formação Técnica em Química pelo Instituto Federal de Minas Gerais da qual não tive grande gosto pela área de química e como sempre tive mais apreço a área de tecnologia acabei escolhendo essa área para seguir carreira, atualmente trabalho como técnico de informática na empresa Comercial Villa Simpatia.
 
 
 
@@ -28,13 +28,13 @@ Meu nome é Cristian Mateus Teixeira Barbosa,Moro em São José dos Campos - SP,
 
 <details>
   <summary>Em 2020-1</summary>
-O projeto integrador no inicio de 2020 foi de um aplicativo de segurança domiciliar, que foi desenvolvido e criado para uma inovação no mercado de segurança, com a facilidade e funcionalidade de ter a autonomia da segurança do seu domicílio.
+O projeto integrador no início de 2020 foi de um aplicativo de segurança domiciliar, que foi desenvolvido e criado para uma inovação no mercado de segurança, com a facilidade e funcionalidade de ter a autonomia da segurança do seu domicílio.
 
 
 
 ##### :man_teacher: Parceiro Acadêmico:
 
-FATEC - Prof. Jessen Vidal, proposto pelo o Prof. Jean Carlos Lourenço Costa da disciplina de Programação em Microinformática.
+FATEC - Prof. Jessen Vidal, proposto pelo Prof. Jean Carlos Lourenço Costa da disciplina de Programação em Microinformática.
 
 ##### :warning: Problema:
 
@@ -42,19 +42,19 @@ Falta de segurança a longa distancia
 
 ##### :bulb: Solução:
 
-Aplicativo de segurança doméstica, que trás aos usuários conforto, segurança e praticidade, possibilitando controle e monitoramento através de qualquer lugar, por meio de um aparelho móvel conectado à internet.
+Aplicativo de segurança doméstica, que traz aos usuários conforto, segurança e praticidade, possibilitando controle e monitoramento através de qualquer lugar, por meio de um aparelho móvel conectado à internet.
 
 ##### :computer: Tecnologias Utilizadas:
 
- [kodular](https://www.kodular.io)  - É uma linguagem visual de blocos para criar aplicativos Android,O Kodular foi a principal tecnologia do projeto, pois através dela que o aplicativo foi construído.
+ [kodular](https://www.kodular.io)  - É uma linguagem visual de blocos para criar aplicativos Android, O Kodular foi a principal tecnologia do projeto, pois através dela que o aplicativo foi construído.
 
 [Firebase](https://firebase.google.com/products/realtime-database/?utm_source=google&utm_medium=cpc&utm_campaign=latam-BR-all-pt-dr-SKWS-all-all-trial-e-dr-1011454-LUAC0008679&utm_content=text-ad-none-any-DEV_c-CRE_429626774316-ADGP_Hybrid%20%7C%20SKWS%20-%20EXA%20%7C%20Txt%20~%20Compute_Firebase-KWID_43700066431125567-kwd-312330826250&utm_term=KW_firebase-ST_Firebase&gclid=CjwKCAjwrqqSBhBbEiwAlQeqGi-Fsw0Zm0CZHlbUi-l5d_oEqcTx9shZNZD5AGjEdP--fGkoiY1kfBoCE4EQAvD_BwE&gclsrc=aw.ds) - É uma plataforma desenvolvida pelo Google para a criação de aplicativos móveis e web, Foi utilizado para guardar informações e autenticar clientes no sistema.
 
-Droidcam - É uma aplicação para Android que permite usufruir da camara e micro do dispositivo móvel a partir de qualquer lugar, foi utilizado para a integração da camera com o sistema
+Droidcam - É uma aplicação para Android que permite usufruir da câmara e micro do dispositivo móvel a partir de qualquer lugar, foi utilizado para a integração da câmera com o sistema
 
 ##### :link: Contribuições pessoais :
 
-Nesse projeto contribui com a programação a linkagem da camera ao aplicativo, integração do aplicativo com o firebase e airtable e com a prototipação do front-end desse projeto.
+Nesse projeto contribui com a programação a linkagem da câmera ao aplicativo, integração do aplicativo com o firebase e airtable e com a prototipação do front-end desse projeto.
 
 ##### Hard skill:
 
@@ -65,9 +65,9 @@ airtable sei fazer com ajuda.
 
 **Comunicação** - Foi de grande importância para o desenvolvimento do projeto, e se tornou crucial para o projeto pois havia começado da pandemia e tivemos que continuar EAD o que dificultou no começo a comunicação.
 
-**planejamento** - Foi necessário o planejamento constante para definirmos os estágios de desenvolvimento do projeto e de como organizaríamos as tarefas do projetos.
+**planejamento** - Foi necessário o planejamento constante para definirmos os estágios de desenvolvimento do projeto e de como organizaríamos as tarefas dos projetos.
 
-**Criatividade** - Foi nescessario a criatividade para contornarmos os problemas.
+**Criatividade** - Foi necessário a criatividade para contornarmos os problemas.
 
 ##### [GIT do projeto](https://github.com/Rafael-BD/SlimSystem-API)
 
@@ -82,7 +82,7 @@ airtable sei fazer com ajuda.
 
 <details>
   <summary>Em 2020-2</summary>
-Foi desenvolvido um aplicativo de gerenciamento para controle da jornada de trabalho dos motoristas de forma parametrizável, visando funcionalidades de planejamento,acompanhamento e controle.
+Foi desenvolvido um aplicativo de gerenciamento para controle da jornada de trabalho dos motoristas de forma parametrizável, visando funcionalidades de planejamento, acompanhamento e controle.
 
 
 
@@ -96,30 +96,30 @@ Falta de gerenciamento e obtenção atualizações de status durante a jornada d
 
 ##### :bulb: Solução:
 
-Desenvolver um aplicativo de gerenciamento para controle da jornada de trabalho dos motoristas de forma parametrizável, visando funcionalidades de planejamento,acompanhamento e controle.
+Desenvolver um aplicativo de gerenciamento para controle da jornada de trabalho dos motoristas de forma parametrizável, visando funcionalidades de planejamento, acompanhamento e controle.
 
 ##### :computer: Tecnologias Utilizadas:
 
-[Java](https://www.java.com/pt-BR/) - Java é uma linguagem de programação de alto nível orientada a objetos, O Java foi a principal linguagem de programção do projeto, pois através dela que o aplicativo foi construído.
+[Java](https://www.java.com/pt-BR/) - Java é uma linguagem de programação de alto nível orientada a objetos, O Java foi a principal linguagem de programação do projeto, pois através dela que o aplicativo foi construído.
 
-[Java swing]() -  É um framework que disponibiliza um conjunto de elementos gráficos para ser utilizado na plataforma *Java*, foi utilizada juntamente a linguagem java.
+[Java swing]() -  É um framework que disponibiliza um conjunto de elementos gráficos para ser utilizado na plataforma *Java*, foi utilizada juntamente a linguagem Java.
 
-[PostgreSQL](https://www.postgresql.org) - PostgreSQL é um sistema de gerenciamento de banco de dados relacional de código aberto. Ele é conhecido por sua robustez, confiabilidade e capacidade de lidar com grandes volumes de dados. É amplamente utilizado em aplicações web e empresariais,O postgreSQL foi o banco de dados usado no projeto.
+[PostgreSQL](https://www.postgresql.org) - PostgreSQL é um sistema de gerenciamento de banco de dados relacional de código aberto. Ele é conhecido por sua robustez, confiabilidade e capacidade de lidar com grandes volumes de dados. É amplamente utilizado em aplicações web e empresariais, O PostgreSQL foi o banco de dados usado no projeto.
 
 ##### Contribuições pessoais :
 
-Nesse projeto atuei com desenvolvimento e integração do banco de dados com o back-end, não possuia qualquer conhecimento de desenvolvimento de banco de dados, o que se tornou um desafio para aprender sobre banco de dados e como cria-lo corretamente. Ao transcorrer do projeto adquiri conhecimento e experiencia com o banco de dados e seus conceitos.
+Nesse projeto atuei com desenvolvimento e integração do banco de dados com o back-end, não possuía qualquer conhecimento de desenvolvimento de banco de dados, o que se tornou um desafio para aprender sobre banco de dados e como cria-lo corretamente. Ao transcorrer do projeto adquiri conhecimento e experiencia com o banco de dados e seus conceitos.
 
 ##### Hard skill:
 
 PostgreSQL sei fazer com autonomia.
-java sei fazer com ajuda
+Java sei fazer com ajuda
 
 ##### Soft skills:
 
 **Resiliência** - Foi necessário para lidarmos com os imprevistos do projeto e nos adaptarmos aos requisitos de cada entrega.
 
-**Conhecimento de Metodologias Ágeis** - Foi nescessario pra o gerenciamento eficiente e andamento do projeto.
+**Conhecimento de Metodologias Ágeis** - Foi necessário para o gerenciamento eficiente e andamento do projeto.
 
 ##### [GIT do projeto](https://github.com/DevSlim001/PI_2020.2)
 
@@ -146,20 +146,20 @@ Uma plataforma de ensino remoto com praticidade, facilidade e ampla variedade de
 
 ##### :computer: Tecnologias Utilizadas
 
-Java - Java é uma linguagem de programação de alto nível orientada a objetos,  O Java foi a principal linguagem de programção do projeto, pois através dela que o aplicativo foi construído.
+Java - Java é uma linguagem de programação de alto nível orientada a objetos, O Java foi a principal linguagem de programação do projeto, pois através dela que o aplicativo foi construído.
 
-Javascript - JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma, Usada principalmente na construção do chatbot e animações das páginas do projeto.
+Javascript - Javascript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma, usada principalmente na construção do chatbot e animações das páginas do projeto.
 
-Bootstrap - Bootstrap é um framework web com código-fonte aberto para desenvolvimento de componentes de interface e front-end para sites e aplicações web usando HTML, CSS e JavaScript, baseado em modelos de design para a tipografia, melhorando a experiência do usuário em um site amigável e responsivo, Utilizado para coleta de templates e responsividade do projeto.
+Bootstrap - Bootstrap é um framework web com código-fonte aberto para desenvolvimento de componentes de interface e front-end para sites e aplicações web usando HTML, CSS e Javascript, baseado em modelos de design para a tipografia, melhorando a experiência do usuário em um site amigável e responsivo, utilizado para coleta de templates e responsividade do projeto.
 
 
-Python - Python é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forteO Python foi utilizado para construção do script temporizador.py, um microserviço utilizado no decorrer do projeto para controle de tempo de dedicação as tarefas.
+Python - Python é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte, Python foi utilizado para construção do script temporizador.py, um microserviço utilizado no decorrer do projeto para controle de tempo de dedicação as tarefas.
 
 Mysql - MySQL é um sistema de gerenciamento de banco de dados relacional de código aberto. Ele é amplamente utilizado para armazenar, recuperar e gerenciar dados em aplicativos e sites, Mysql foi o banco de dados usado no projeto.
 
 ##### Contribuições pessoais :
 
-Nesse projeto me dediquei para a integração do banco com o back-end, nas duas ultimas sprints ajudei com a criação de telas  e revisamento das telas para que não houvesse problemas de responsividade.
+Nesse projeto me dediquei para a integração do banco com o back-end, nas duas últimas sprints ajudei com a criação de telas e a revisão das telas para que não houvesse problemas de responsividade.
 
 ##### Hard skills:
 
@@ -167,7 +167,7 @@ Mysql e Javascript sei fazer com autonomia
 
 ##### Soft skills:
 
-**Autonomia** - Foi nescessario iniciativa para resolver problemas e ajustar as integrações do projeto.
+**Autonomia** - Foi necessário iniciativa para resolver problemas e ajustar as integrações do projeto.
 
 [GIT do projeto](https://github.com/DevSlim001/API_NEDUC)
 
@@ -186,25 +186,25 @@ Na segunda etapa de 2021, tivemos o prazer de trabalhar com uma das maiores empr
 
 ##### :warning: Problema
 
-Dificuladade na manipulação de documentos (manuais), demora e trabalho excessivo para criação, edição e atualização dos mesmos.
+Dificuldade na manipulação de documentos (manuais), demora e trabalho excessivo para criação, edição e atualização dos mesmos.
 
 ##### :bulb: Solução
 
-Plataforma WEB resposnsável por facilitar a edição desses arquivos de forma que não fosse necessário realizar operações exaustivas e repetitivas.
+Plataforma WEB responsável por facilitar a edição desses arquivos de forma que não fosse necessário realizar operações exaustivas e repetitivas.
 
 ##### :computer: Tecnologias Utilizadas
 
-Java - Java é uma linguagem de programação de alto nível orientada a objetos,  O Java foi a principal linguagem de programção do projeto, pois através dela que o aplicativo foi construído.
+Java - Java é uma linguagem de programação de alto nível orientada a objetos, O Java foi a principal linguagem de programação do projeto, pois através dela que o aplicativo foi construído.
 
-Javascript - JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma.
+Javascript - Javascript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma.
 
 Springboot - Spring Boot é um framework de desenvolvimento em Java que simplifica a criação de aplicativos Java, fornecendo configurações pré-definidas e um ambiente de execução integrado.
 
-ReactJs - O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web, o React foi a principal tecnologia utilizada na construção do front-end do projeto.
+ReactJs - O React é uma biblioteca Javascript de código aberto com foco em criar interfaces de usuário em páginas web, o React foi a principal tecnologia utilizada na construção do front-end do projeto.
 
 ##### Contribuições pessoais 
 
-Nesse projeto fui responsável pelo desenvolvimento das páginas web utilizando ReactJs. Contribiu com pequenas ajudas para o Back-end e Banco de Dados.
+Nesse projeto fui responsável pelo desenvolvimento das páginas web utilizando ReactJs. Contribui com pequenas ajudas para o Back-end e Banco de Dados.
 
 ##### Hardskill:
 
@@ -213,7 +213,7 @@ java sei fazer com ajuda
 
 ##### Soft skills
 
-***Aprendizado Contínuo*** - Foi nescessario o aprendizado continuou pois estava atuando com uma linguagem que não tinha nenhum contato previo, o que se fez nescessario um estudo sobre a linguagem
+***Aprendizado Contínuo*** - Foi necessário o aprendizado continuou pois estava atuando com uma linguagem que não tinha nenhum contato prévio, o que se fez necessário um estudo sobre a linguagem
 
 
 [GIT do projeto](https://github.com/DevSlim001/API_Slim_4Semestre)
@@ -221,7 +221,7 @@ java sei fazer com ajuda
 
 <details>
   <summary>Em 2022-1</summary>
-Nesse semetre a empresa parceira apresentou a proposta de desenvolver um aplicativo mobile que notificasse os proprietários e tornasse mais fácil a leitura de documentos preventivos ou de manutenção de seus veículos correspondentes.
+Nesse semestre a empresa parceira apresentou a proposta de desenvolver um aplicativo mobile que notificasse os proprietários e tornasse mais fácil a leitura de documentos preventivos ou de manutenção de seus veículos correspondentes.
 
 
 
@@ -239,20 +239,20 @@ Um aplicativo que facilita os procedimentos padrão para os motoristas em caso d
 
 ##### :computer: Tecnologias Utilizadas
 
-React-native - React Native é um framework para o desenvolvimento de aplicativos móveis, foi a principal linguagem de programção do projeto, pois através dela que o front-end do aplicativo construido.
+React-native - React Native é um framework para o desenvolvimento de aplicativos móveis, foi a principal linguagem de programação do projeto, pois através dela que o front-end do aplicativo construído.
 
-Javascript -  JavaScript é uma linguagem de programação amplamente usada para desenvolvimento web,foi a principal linguagem de programção do projeto, pois através dela que o back-end do aplicativo foi construído.
+Javascript - Javascript é uma linguagem de programação amplamente usada para desenvolvimento web, foi a principal linguagem de programação do projeto, pois através dela que o back-end do aplicativo foi construído.
 
 AWS - AWS é uma plataforma de serviços em nuvem oferecida pela Amazon. Possui uma ampla gama de serviços que incluem armazenamento em nuvem, computação em nuvem, análise de dados, aprendizado de máquina e muito mais, foi utilizado para a hospedagem back-end do aplicativo
 
 
 ##### Contribuições pessoais 
 
-Nesse projeto atuei como SM(Scrum Master) e fiquei responsável pelo desenvolvimento de telas de login,usurário e home incluindo a comunicação com a API Gateway, configurei a AWS para rodar o back-end e fiz a configuração das rotas do front end para a comunicação com a AWS.
+Nesse projeto atuei como SM (Scrum Master) e fiquei responsável pelo desenvolvimento de telas de login, usurário e home incluindo a comunicação com a API Gateway, configurei a AWS para rodar o back-end e fiz a configuração das rotas do front end para a comunicação com a AWS.
 
 ##### Hardskill:
 
-React-native, Javascript e AWS sei fazer comautonomia
+React-native, Javascript e AWS sei fazer com autonomia
 
 ##### Soft skills
 
@@ -271,7 +271,7 @@ Gerenciamento de tempo
 
 ##### :man_teacher: Parceiro Acadêmico:
 
-[Visiona](https://visionaespacial.com) - A Visiona Tecnologia Espacial é uma *joint-venture* entre a Embraer Defesa & Segurança e a Telebras , voltada para a integração de sistemas espaciais.
+[Visiona](https://visionaespacial.com) - A Visiona Tecnologia Espacial é uma *joint-venture* entre a Embraer Defesa & Segurança e a Telebras, voltada para a integração de sistemas espaciais.
 
 ##### :warning: Problema:
 
@@ -283,19 +283,19 @@ A solução encontrada foi a implementação de uma IA no aplicativo, de forma q
 
 ##### :computer: Tecnologias Utilizadas
 
-ReactJs - O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web.
+ReactJs - O React é uma biblioteca Javascript de código aberto com foco em criar interfaces de usuário em páginas web.
 
 Python - Python é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.
 
-Javascript - JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma.
+Javascript - Javascript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma.
 
 TensorFlow - TensorFlow é uma biblioteca de código aberto desenvolvida pelo Google para aprendizado de máquina e inteligência artificial. 
 
-Yolo -  YOLO é um algoritmo de detecção de objetos em tempo real usado em visão computacional. Ele é conhecido por sua capacidade de identificar múltiplos objetos em uma única passagem pela imagem e é amplamente usado em aplicações de segurança, veículos autônomos e vigilância.
+Yolo - YOLO é um algoritmo de detecção de objetos em tempo real usado em visão computacional. Ele é conhecido por sua capacidade de identificar múltiplos objetos em uma única passagem pela imagem e é amplamente usado em aplicações de segurança, veículos autônomos e vigilância.
 
 ##### Contribuições pessoais 
 
-Nesse projeto fui responsável pelo desenvolvimento da IA assim como seu treinamento e pelo aperfeiçoamento dos treinos, tambem fiz a preparação do dataset fazendo a identificação manual de vagem para o treinamento de reconhecimento da IA.
+Nesse projeto fui responsável pelo desenvolvimento da IA assim como seu treinamento e pelo aperfeiçoamento dos treinos, também fiz a preparação do dataset fazendo a identificação manual de vagem para o treinamento de reconhecimento da IA.
 
 ##### Hardskill:
 

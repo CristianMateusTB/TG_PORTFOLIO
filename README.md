@@ -252,14 +252,15 @@ Nesse projeto atuei como SM (Scrum Master) e fiquei responsável pelo desenvolvi
 
 ##### Hardskill:
 
-React-native, Javascript e AWS sei fazer com autonomia
+React-native, Javascript e AWS sei fazer com autonomia.
 
 ##### Soft skills
 
-Adaptabilidade 
-autonomia
-Gestão de Projeto
-Gerenciamento de tempo
+Comunicação - Foi nescessaria a comunicação com a equipe para o alinhamento do projeto e manter a senergia da equipe.
+
+Autonomia - Foi nescessario autonomia para a tomada de descisões durante o projeto.
+
+Gestão de Projeto e Gerenciamento de tempo - Como SM foi nescessario o gerenciamento de tempo para o projeto e atividades.
 
 [GIT do projeto](https://github.com/TecStocks).
 </details>
@@ -299,11 +300,14 @@ Nesse projeto fui responsável pelo desenvolvimento da IA assim como seu treinam
 
 ##### Hardskill:
 
-Python
-
-IA 
+Pytho e JavaScript sei com autonomia
 
 ##### Soft skills
+
+Trabalho em equipe - Foi nescessario trabalho em equipe para configurar o treinamento da IA pois foi treinada em computadores diferentes e com configurações diferentes.
+
+atenção para qualidade e detalhe - Foi nescessario atenção para o treino da IA para não ocorrer a memorização em vez da aprencdizagem.
+ 
 
 [GIT do projeto](https://github.com/DevSlim001/API_Slim_4Semestre)
 </details>

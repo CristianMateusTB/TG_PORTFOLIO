@@ -57,8 +57,9 @@ Nesse projeto contribui com a programação a linkagem da câmera ao aplicativo,
 
 ##### Hard skill:
 
-Firebase, Kodular sei fazer com autonomia.
-airtable sei fazer com ajuda.
+Firebase - sei com autonomia
+Kodular - sei fazer com autonomia.
+airtable - sei fazer com ajuda.
 
 ##### Soft skills:
 
@@ -111,8 +112,8 @@ Nesse projeto atuei com desenvolvimento e integração do banco de dados com o b
 
 ##### Hard skill:
 
-PostgreSQL sei fazer com autonomia.
-Java sei fazer com ajuda
+PostgreSQL - sei fazer com autonomia.
+Java - sei fazer com ajuda
 
 ##### Soft skills:
 
@@ -161,7 +162,10 @@ Nesse projeto me dediquei para a integração do banco com o back-end, nas duas 
 
 ##### Hard skills:
 
-Mysql e Javascript sei fazer com autonomia
+Python -sei fazer com autonomia
+Mysql - sei com autonomia
+Javascript - sei fazer com autonomia
+Java - sei fazer com ajuda
 
 ##### Soft skills:
 
@@ -206,8 +210,8 @@ Nesse projeto fui responsável pelo desenvolvimento das páginas web utilizando 
 
 ##### Hardskill:
 
-ReactJs sei fazer com autonomia
-java sei fazer com ajuda
+ReactJs - sei fazer com autonomia
+java - sei fazer com ajuda
 
 ##### Soft skills
 
@@ -250,7 +254,9 @@ Nesse projeto atuei como SM (Scrum Master) e fiquei responsável pelo desenvolvi
 
 ##### Hardskill:
 
-React-native, Javascript e AWS sei fazer com autonomia.
+React-native - sei com autonomia
+Javascript - sei com autonomia
+AWS - sei fazer com autonomia.
 
 ##### Soft skills
 
@@ -298,7 +304,8 @@ Nesse projeto fui responsável pelo desenvolvimento da IA assim como seu treinam
 
 ##### Hardskill:
 
-Pytho e JavaScript sei com autonomia
+Pytho - sei com autonomia
+JavaScript - sei com autonomia
 
 ##### Soft skills
 

@@ -20,7 +20,7 @@
 
 ### :computer:Apresentação
 
-Meu nome é Cristian Mateus Teixeira Barbosa, Moro em São José dos Campos - SP, atualmente estou Cursando Análise e desenvolvimento de Software na FATEC - Prof. Jessen Vidal. Formação Técnica em Química pelo Instituto Federal de Minas Gerais da qual não tive grande gosto pela área de química e como sempre tive mais apreço a área de tecnologia acabei escolhendo essa área para seguir carreira, atualmente trabalho como técnico de informática na empresa Comercial Villa Simpatia.
+Meu nome é Cristian Mateus Teixeira Barbosa moro em São José dos Campos - SP. Atualmente, estou cursando Análise e Desenvolvimento de Software na FATEC - Prof. Jessen Vidal. Possuo uma formação técnica em Química pelo Instituto Federal de Minas Gerais, mas não tive um grande interesse pela área de química. Sempre tive uma afinidade maior com a área de tecnologia, o que me levou a escolher essa área para seguir minha carreira. Atualmente, trabalho como técnico de informática na empresa Comercial Villa Simpatia.
 
 
 
@@ -28,8 +28,7 @@ Meu nome é Cristian Mateus Teixeira Barbosa, Moro em São José dos Campos - SP
 
 <details>
   <summary>Em 2020-1</summary>
-O projeto integrador no início de 2020 foi de um aplicativo de segurança domiciliar, que foi desenvolvido e criado para uma inovação no mercado de segurança, com a facilidade e funcionalidade de ter a autonomia da segurança do seu domicílio.
-
+O projeto integrador no início de 2020 foi um aplicativo de segurança domiciliar desenvolvido para inovar o mercado de segurança, oferecendo facilidade e funcionalidade para que os usuários tenham autonomia na proteção de seus lares
 
 
 ##### :man_teacher: Parceiro Acadêmico:
@@ -129,7 +128,6 @@ Java sei fazer com ajuda
 <details>
   <summary>Em 2021-1</summary>
 Na primeira etapa de 2021, com o avanço da pandemia do COVID-19 e o aumento da demanda por formações EAD, recebemos o desafio de criar uma plataforma de ensino digital que fosse intuitiva e de fácil uso para todos os tipos de usuários.
-
 
 
 ##### :man_teacher: Parceiro Acadêmico:

@@ -53,7 +53,7 @@ Droidcam - É uma aplicação para Android que permite usufruir da câmara e mic
 
 ##### :link: Contribuições pessoais :
 
-Nesse projeto contribui com a programação a linkagem da câmera ao aplicativo, integração do aplicativo com o firebase e airtable e com a prototipação do front-end desse projeto.
+Nesse projeto contribui com a programação a linkagem da câmera ao aplicativo utilizando kodular, integração do aplicativo com o firebase e airtable e com a prototipação do front-end desse projeto.
 
 ##### Hard skill:
 
@@ -108,7 +108,7 @@ Desenvolver um aplicativo de gerenciamento para controle da jornada de trabalho 
 
 ##### Contribuições pessoais :
 
-Nesse projeto atuei com desenvolvimento e integração do banco de dados com o back-end, não possuía qualquer conhecimento de desenvolvimento de banco de dados, o que se tornou um desafio para aprender sobre banco de dados e como cria-lo corretamente. Ao transcorrer do projeto adquiri conhecimento e experiencia com o banco de dados e seus conceitos.
+Nesse projeto atuei com desenvolvimento e integração do banco de dados postegree com o back-end em java, não possuía qualquer conhecimento de desenvolvimento de banco de dados, o que se tornou um desafio para aprender sobre banco de dados e como cria-lo corretamente. Ao transcorrer do projeto adquiri conhecimento e experiencia com o banco de dados e seus conceitos.
 
 ##### Hard skill:
 
@@ -158,7 +158,7 @@ Mysql - MySQL é um sistema de gerenciamento de banco de dados relacional de có
 
 ##### Contribuições pessoais :
 
-Nesse projeto me dediquei para a integração do banco com o back-end, nas duas últimas sprints ajudei com a criação de telas e a revisão das telas para que não houvesse problemas de responsividade.
+Nesse projeto me dediquei para a integração do banco mysql com o back-end, nas duas últimas sprints ajudei com a criação de telas em javascript e a revisão das telas para que não houvesse problemas de responsividade.
 
 ##### Hard skills:
 
@@ -206,7 +206,7 @@ ReactJs - O React é uma biblioteca Javascript de código aberto com foco em cri
 
 ##### Contribuições pessoais 
 
-Nesse projeto fui responsável pelo desenvolvimento das páginas web utilizando ReactJs. Contribui com pequenas ajudas para o Back-end e Banco de Dados.
+Nesse projeto fui responsável pelo desenvolvimento das páginas web utilizando ReactJs. Contribui alem do desenvolvimento com as pagonas pequenas ajudas para o Back-end e Banco de Dados.
 
 ##### Hardskill:
 
@@ -250,7 +250,7 @@ AWS - AWS é uma plataforma de serviços em nuvem oferecida pela Amazon. Possui 
 
 ##### Contribuições pessoais 
 
-Nesse projeto atuei como SM (Scrum Master) e fiquei responsável pelo desenvolvimento de telas de login, usurário e home incluindo a comunicação com a API Gateway, configurei a AWS para rodar o back-end e fiz a configuração das rotas do front end para a comunicação com a AWS.
+Nesse projeto atuei como SM (Scrum Master) e fiquei responsável pelo desenvolvimento de telas de login, usurário e home em react-native incluindo a comunicação com a API Gateway, configurei a AWS para rodar o back-end e fiz a configuração das rotas e portas do front end para a comunicação com a AWS.
 
 ##### Hardskill:
 
@@ -300,7 +300,7 @@ Yolo - YOLO é um algoritmo de detecção de objetos em tempo real usado em vis�
 
 ##### Contribuições pessoais 
 
-Nesse projeto fui responsável pelo desenvolvimento da IA assim como seu treinamento e pelo aperfeiçoamento dos treinos, também fiz a preparação do dataset fazendo a identificação manual de vagem para o treinamento de reconhecimento da IA.
+Nesse projeto fui responsável pelo desenvolvimento da IA com python assim como seu treinamento e pelo aperfeiçoamento dos treinos, também fiz a preparação do dataset fazendo a identificação manual de vagem para o treinamento de reconhecimento da IA.
 
 ##### Hardskill:
 

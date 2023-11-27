@@ -51,23 +51,25 @@ Aplicativo de segurança doméstica, que traz aos usuários conforto, segurança
 
 Droidcam - É uma aplicação para Android que permite usufruir da câmara e micro do dispositivo móvel a partir de qualquer lugar, foi utilizado para a integração da câmera com o sistema
 
-##### :link: Contribuições pessoais :
+##### :link: Contribuições pessoais:
 
 Nesse projeto contribui com a programação a linkagem da câmera ao aplicativo utilizando kodular, integração do aplicativo com o firebase e airtable e com a prototipação do front-end desse projeto.
 
 ##### Hard skill:
 
-Firebase - sei com autonomia
-Kodular - sei fazer com autonomia.
-airtable - sei fazer com ajuda.
+-Firebase - sei com autonomia
+
+-Kodular - sei fazer com autonomia.
+
+-airtable - sei fazer com ajuda.
 
 ##### Soft skills:
 
-**Comunicação** - Foi de grande importância para o desenvolvimento do projeto, e se tornou crucial para o projeto pois havia começado da pandemia e tivemos que continuar EAD o que dificultou no começo a comunicação.
+-**Comunicação** - Foi de grande importância para o desenvolvimento do projeto, e se tornou crucial para o projeto pois havia começado da pandemia e tivemos que continuar EAD o que dificultou no começo a comunicação.
 
-**planejamento** - Foi necessário o planejamento constante para definirmos os estágios de desenvolvimento do projeto e de como organizaríamos as tarefas dos projetos.
+-**planejamento** - Foi necessário o planejamento constante para definirmos os estágios de desenvolvimento do projeto e de como organizaríamos as tarefas dos projetos.
 
-**Criatividade** - Foi necessário a criatividade para contornarmos os problemas.
+-**Criatividade** - Foi necessário a criatividade para contornarmos os problemas.
 
 ##### [GIT do projeto](https://github.com/Rafael-BD/SlimSystem-API)
 
@@ -112,14 +114,14 @@ Nesse projeto atuei com desenvolvimento e integração do banco de dados postegr
 
 ##### Hard skill:
 
-PostgreSQL - sei fazer com autonomia.
-Java - sei fazer com ajuda
+-PostgreSQL - sei fazer com autonomia.
+-Java - sei fazer com ajuda
 
 ##### Soft skills:
 
-**Resiliência** - Foi necessário para lidarmos com os imprevistos do projeto e nos adaptarmos aos requisitos de cada entrega.
+-**Resiliência** - Foi necessário para lidarmos com os imprevistos do projeto e nos adaptarmos aos requisitos de cada entrega.
 
-**Conhecimento de Metodologias Ágeis** - Foi necessário para o gerenciamento eficiente e andamento do projeto.
+-**Conhecimento de Metodologias Ágeis** - Foi necessário para o gerenciamento eficiente e andamento do projeto.
 
 ##### [GIT do projeto](https://github.com/DevSlim001/PI_2020.2)
 
@@ -151,7 +153,6 @@ Javascript - Javascript é uma linguagem de programação interpretada estrutura
 
 Bootstrap - Bootstrap é um framework web com código-fonte aberto para desenvolvimento de componentes de interface e front-end para sites e aplicações web usando HTML, CSS e Javascript, baseado em modelos de design para a tipografia, melhorando a experiência do usuário em um site amigável e responsivo, utilizado para coleta de templates e responsividade do projeto.
 
-
 Python - Python é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte, Python foi utilizado para construção do script temporizador.py, um microserviço utilizado no decorrer do projeto para controle de tempo de dedicação as tarefas.
 
 Mysql - MySQL é um sistema de gerenciamento de banco de dados relacional de código aberto. Ele é amplamente utilizado para armazenar, recuperar e gerenciar dados em aplicativos e sites, Mysql foi o banco de dados usado no projeto.
@@ -162,14 +163,17 @@ Nesse projeto me dediquei para a integração do banco mysql com o back-end, nas
 
 ##### Hard skills:
 
-Python -sei fazer com autonomia
-Mysql - sei com autonomia
-Javascript - sei fazer com autonomia
-Java - sei fazer com ajuda
+-Python -sei fazer com autonomia
+
+-Mysql - sei com autonomia
+
+-Javascript - sei fazer com autonomia
+
+-Java - sei fazer com ajuda
 
 ##### Soft skills:
 
-**Autonomia** - Foi necessário iniciativa para resolver problemas e ajustar as integrações do projeto.
+-**Autonomia** - Foi necessário iniciativa para resolver problemas e ajustar as integrações do projeto.
 
 [GIT do projeto](https://github.com/DevSlim001/API_NEDUC)
 
@@ -210,12 +214,13 @@ Nesse projeto fui responsável pelo desenvolvimento das páginas web utilizando 
 
 ##### Hardskill:
 
-ReactJs - sei fazer com autonomia
-java - sei fazer com ajuda
+-ReactJs - sei fazer com autonomia
+
+-java - sei fazer com ajuda
 
 ##### Soft skills
 
-***Aprendizado Contínuo*** - Foi necessário o aprendizado continuou pois estava atuando com uma linguagem que não tinha nenhum contato prévio, o que se fez necessário um estudo sobre a linguagem
+-***Aprendizado Contínuo*** - Foi necessário o aprendizado continuou pois estava atuando com uma linguagem que não tinha nenhum contato prévio, o que se fez necessário um estudo sobre a linguagem
 
 
 [GIT do projeto](https://github.com/DevSlim001/API_Slim_4Semestre)
@@ -254,17 +259,19 @@ Nesse projeto atuei como SM (Scrum Master) e fiquei responsável pelo desenvolvi
 
 ##### Hardskill:
 
-React-native - sei com autonomia
-Javascript - sei com autonomia
-AWS - sei fazer com autonomia.
+-React-native - sei com autonomia
+
+-Javascript - sei com autonomia
+
+-AWS - sei fazer com autonomia.
 
 ##### Soft skills
 
-Comunicação - Foi nescessaria a comunicação com a equipe para o alinhamento do projeto e manter a senergia da equipe.
+-Comunicação - Foi Necessária a comunicação com a equipe para o alinhamento do projeto e manter a sinergia da equipe.
 
-Autonomia - Foi nescessario autonomia para a tomada de descisões durante o projeto.
+-Autonomia - Foi necessário autonomia para a tomada de decisões durante o projeto.
 
-Gestão de Projeto e Gerenciamento de tempo - Como SM foi nescessario o gerenciamento de tempo para o projeto e atividades.
+-Gestão de Projeto e Gerenciamento de tempo - Como SM foi necessário o gerenciamento de tempo para o projeto e atividades.
 
 [GIT do projeto](https://github.com/TecStocks).
 </details>
@@ -304,14 +311,15 @@ Nesse projeto fui responsável pelo desenvolvimento da IA com python assim como 
 
 ##### Hardskill:
 
-Pytho - sei com autonomia
-JavaScript - sei com autonomia
+-Pytho - sei com autonomia
+
+-JavaScript - sei com autonomia
 
 ##### Soft skills
 
-Trabalho em equipe - Foi nescessario trabalho em equipe para configurar o treinamento da IA pois foi treinada em computadores diferentes e com configurações diferentes.
+-Trabalho em equipe - Foi necessário trabalho em equipe para configurar o treinamento da IA pois foi treinada em computadores diferentes e com configurações diferentes.
 
-atenção para qualidade e detalhe - Foi nescessario atenção para o treino da IA para não ocorrer a memorização em vez da aprencdizagem.
+-Atenção para qualidade e detalhe - Foi necessário atenção para o treino da IA para não ocorrer a memorização em vez da aprendizagem.
  
 
 [GIT do projeto](https://github.com/DevSlim001/API_Slim_4Semestre)
